@@ -1,0 +1,11 @@
+.sobre {
+    padding: 0 6em;
+    text-align: justify;
+}
+
+p {
+    font-size: 18px;
+}
+span {
+    font-weight: bold;
+}

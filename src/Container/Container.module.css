@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+img {
+    width: 30%;
+    margin-left: 2em;
+    
+}
+
+.botoes {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5em;
+    justify-content: center;
+    margin-right: 25em;
+    
+}

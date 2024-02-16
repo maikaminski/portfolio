@@ -7,3 +7,8 @@
     color: var(--branco);
     text-decoration: none;
 }
+
+.botao:hover {
+    background-color: var(--azulEscuro);
+
+}
